@@ -6,41 +6,41 @@
 ### 1주차 Web Front Basics(HTML/CSS/JS)
 
 * [Repository](https://github.com/YooSeonHo/vanilla-todo-16th)                
-* [Deploy](vanilla-todolist-16th.netlify.app)                  
+* [Deploy](https://vanilla-todolist-16th.netlify.app/)                  
 * [Code Review](https://github.com/CEOS-Developers/vanilla-todo-16th/pull/4)
  
 ### 2주차 React Basic & Hooks
 
 * [Repository](https://github.com/YooSeonHo/react-todo-16th)                
-* [Deploy](react-todolist-seonho.netlify.app/)                  
+* [Deploy](https://react-todolist-seonho.netlify.app/)                  
 * [Code Review](https://github.com/CEOS-Developers/react-todo-16th/pull/11)
 
 ### 3주차 React Hooks Advanced + TypeScript
 
 * [Repository](https://github.com/YooSeonHo/react-messanger-16th)   - branch YooSeonHo             
-* [Deploy](react-messanger-16th-seonho-gntulvc7d-yooseonho.vercel.app)                  
+* [Deploy](https://react-messanger-16th-seonho-gntulvc7d-yooseonho.vercel.app)                  
 * [Code Review](https://github.com/CEOS-Developers/react-messenger-16th/pull/5)
 
 ### 4주차 Routing & State Management
 
 * [Repository](https://github.com/YooSeonHo/react-messanger-16th)    - branch YooSeonHo2          
-* [Deploy](react-messanger-16th-seonho-gntulvc7d-yooseonho.vercel.app)                  
+* [Deploy](https://react-messanger-16th-seonho-gntulvc7d-yooseonho.vercel.app)                  
 * [Code Review](https://github.com/CEOS-Developers/react-messenger-16th/pull/17)
 
 ### 5주차 Next.js & Agile
 
 * [Repository](https://github.com/YooSeonHo/next-netflix-16th)                
-* [Deploy](next-netflix-16th-teample.vercel.app/)                  
+* [Deploy](https://next-netflix-16th-teample.vercel.app/)                  
 * [Code Review](https://github.com/CEOS-Developers/next-netflix-16th/pull/3)
 
 ### 6주차 Next.js & SSR
 
 * [Repository](https://github.com/YooSeonHo/next-netflix-16th)                
-* [Deploy](next-netflix-16th-teample.vercel.app/)                  
+* [Deploy](https://next-netflix-16th-teample.vercel.app/)                  
 * [Code Review](https://github.com/CEOS-Developers/next-netflix-16th/pull/13)
 
 ### 7주차 API Fetching & auth (합동 스터디)
 
 * [Repository](https://github.com/YooSeonHo/react-vote-16th)                
-* [Deploy](react-vote-16th.vercel.app/)                  
+* [Deploy](https://react-vote-16th.vercel.app/)                  
 * [Code Review](https://github.com/CEOS-Developers/react-vote-16th/pull/6)
